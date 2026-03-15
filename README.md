@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am a passionate Full Stack Developer <br>with a strong foundation in modern web technologies.<br> I completed my B.Tech in Computer Science and Engineering <br>in 2023 from Roorkee, Haridwar, under Uttarakhand Technical <br>University (UTU).<br><br>I have around 1+ year of professional experience <br>in web development. I started my career as a React<br> Developer at ACS Company, where I worked on building <br>responsive and dynamic web applications.<br><br>Currently, I am working at Rantox Digital (Roorkee) <br>for the past 8 months, where I<br><br> develop scalable web applications using both frontend and backend technologies. I also have 6+ months of e<br>xperience in Laravel development, which is currently ongoing, where I<br> work on backend logic, REST API development, and database<br> integration<br><br>Technical Skills<br><br>Frontend: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS<br><br>Backend: PHP, Laravel,my SQL, node <br><br>Other: REST API Development, Responsive Web Design, Git<br><br><br><br>
+# 💫 About Me
+
+I am Rohit Kumar, a passionate Full Stack Developer with a strong foundation in modern web technologies. I completed my B.Tech in Computer Science and Engineering in 2023 from Roorkee, Haridwar under Uttarakhand Technical University (UTU). I have 1+ year of professional experience in web development. I started my career as a React Developer at ACS Company, where I built responsive and dynamic web applications. Currently, I am working at Rantox Digital (Roorkee) for the past 8 months developing scalable web applications using both frontend and backend technologies. I also have 6+ months of experience in Laravel development, currently working on backend logic, REST API development, and database integration.
+
+**Technical Skills**
+
+Frontend: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
+Backend: PHP, Laravel, MySQL, Node.js
+Other: REST API Development, Responsive Web Design, Git
+
 
 
 ## 🌐 Socials:
